@@ -1,5 +1,6 @@
-body {
-font-family: arial;
-background-color: rgb(185,179,175);}
-h1 {
-color: rgb(255,255,255);}
+header {
+ height: 400px;
+}
+section p {
+ font-size: 22px;
+}
